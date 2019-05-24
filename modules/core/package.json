@@ -20,6 +20,7 @@
   "module": "dist/esm/index.js",
   "esnext": "dist/es6/index.js",
   "files": [
+    "LICENSE",
     "dist",
     "src",
     "dist.min.js"
